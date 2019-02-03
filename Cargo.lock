@@ -4,7 +4,7 @@ version = "0.1.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
-name = "ens-namehash-test"
+name = "rust-namehash"
 version = "0.1.0"
 dependencies = [
  "tiny-keccak 1.4.2 (registry+https://github.com/rust-lang/crates.io-index)",
