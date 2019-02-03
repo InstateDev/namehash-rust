@@ -1,1 +1,0 @@
-{"rustc":5105358705442676925,"features":"[]","target":13098178084350113712,"profile":10808475160508846286,"path":10872709659218687626,"deps":[["tiny-keccak v1.4.2","tiny_keccak",11840940411583114867]],"local":[{"MtimeBased":[[1549233343,556511673],".fingerprint/rust-namehash-cf23aa3f38b17604/dep-test-lib-rust_namehash-cf23aa3f38b17604"]}],"rustflags":[],"edition":"Edition2018"}
