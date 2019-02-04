@@ -1,0 +1,8 @@
+[package]
+name = "rust-namehash"
+version = "0.1.0"
+authors = ["Carlos Buendía <cbuendia@influity.com>"]
+edition = "2018"
+
+[dependencies]
+tiny-keccak = "1.4.2"
